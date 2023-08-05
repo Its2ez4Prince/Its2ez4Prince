@@ -4,7 +4,7 @@
 <h1 align="center">Hey👋,<br> I'm Prince Kumar</h1>
 <br>
 
-<h3 align="center">I'm a Computer Engineering student skilled in C++, Python, Javascript and Node<br> 📱💻🤖</h3>
+<h3 align="center">I'm a Computer Engineering Graduate skilled in C++, Python, Javascript and Node<br> 📱💻🤖</h3>
 <br>
 
 
